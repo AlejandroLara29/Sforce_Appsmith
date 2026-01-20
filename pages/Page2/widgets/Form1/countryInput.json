@@ -1,0 +1,75 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "allowClear": false,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 25,
+  "boxShadow": "none",
+  "defaultOptionValue": "BLUE",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "expandAll": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "qgfyy073i7",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Country Filter",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 4,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 25,
+  "mobileLeftColumn": 4,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 18,
+  "needsErrorInfo": false,
+  "options": [
+    {
+      "children": [
+        {
+          "label": "Dark Blue",
+          "value": "DARK BLUE"
+        },
+        {
+          "label": "Light Blue",
+          "value": "LIGHT BLUE"
+        }
+      ],
+      "label": "Blue",
+      "value": "BLUE"
+    },
+    {
+      "label": "Green",
+      "value": "GREEN"
+    },
+    {
+      "label": "Red",
+      "value": "RED"
+    }
+  ],
+  "parentColumnSpace": 8.8720703125,
+  "parentId": "gae0kgm9e5",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 32,
+  "topRow": 18,
+  "type": "SINGLE_SELECT_TREE_WIDGET",
+  "version": 1,
+  "widgetId": "78do1u07vm",
+  "widgetName": "countryInput"
+}

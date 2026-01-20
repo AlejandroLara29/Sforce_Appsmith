@@ -1,0 +1,5 @@
+UPDATE public."users" SET
+    "country" = '{{countryInput.selectedOptionValue}}',
+    "email" = '{{emailInput.text}}',
+    "name" = '{{nameImput.text}}'
+  WHERE id = {{UsersTable.selectedRow.id}};
