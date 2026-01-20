@@ -1,0 +1,6 @@
+Select
+	id, name
+	FROM
+	public.users
+	WHERE 
+	id ={{this.params.id}}

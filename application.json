@@ -16,6 +16,10 @@
     {
       "id": "Page3",
       "isDefault": false
+    },
+    {
+      "id": "page4",
+      "isDefault": false
     }
   ]
 }
